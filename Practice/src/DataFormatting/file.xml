@@ -1,0 +1,17 @@
+<class>
+    <student rollNo="1">
+        <firstname>Sreelekha</firstname>
+        <lastname>Nossam</lastname>
+        <age>23</age>
+    </student>
+    <student rollNo="2">
+        <firstname>Test1</firstname>
+        <lastname>Test1</lastname>
+        <age>11</age>
+    </student>
+    <student rollNo="3">
+        <firstname>Test2</firstname>
+        <lastname>Test2</lastname>
+        <age>22</age>
+    </student>
+</class>
